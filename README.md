@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sami95njt
 - 👀 I’m interested in Backend and php/laravel
 - 🌱 I’m currently work @  EMS
- - ⚡ Fun fact: 1-Whatever you do, don't make me nervous
+ - ⚡ Fun fact: 1-Whatever you do, don't make me nervous 2-Noah's ark does not sink
 
 
 
